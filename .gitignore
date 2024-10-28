@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build output
+dist/
+*.iife.js
+*.js
+*.umd.cjs
+
+# Dependency directories
+jspm_packages/
+.eslintcache
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+
+# Temporary folders
+tmp/
+temp/
+.cache/
+
+# Mac system files
+.DS_Store
+
+# ESLint
+eslintcache
+.eslintcache
+
+# Husky
+.husky/_
+
+# Lock files
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Test coverage
+coverage/
+
+# IDE/Editor specific
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Production files
+entry.css

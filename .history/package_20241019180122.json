@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"main": "index.js",
+	"devDependencies": {
+		"vite": "^5.4.9"
+	}
+}
